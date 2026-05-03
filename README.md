@@ -4,7 +4,7 @@
 Neste repositório teremos um docx de nome "Desafio - RANSOMWARE - criptografia de descriptografia.docx" com descrição de testes, códigos e prints comprovando a simulação e testes em caso real, adaptado para aluno em sua máquina local.
 
 
-> Arquivo "Desafio - RANSOMWARE - criptografia de descriptografia.docx" abordará as etapas:
+- Arquivo "Desafio - RANSOMWARE - criptografia de descriptografia.docx" abordará as etapas:
 
 
 # PARTE 1 - Simulando um Malware de Captura de Dados Simples em Python;
