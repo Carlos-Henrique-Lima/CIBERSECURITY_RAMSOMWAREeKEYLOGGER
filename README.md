@@ -16,6 +16,7 @@ Neste repositório teremos um docx de nome "Desafio - RANSOMWARE - KEYLOGGER.doc
 - PARTE 3 – COMO SE PROTEGER – caso KEYLOGGER;
 
 - PARTE 4 – Código novo, usado, adaptado com correção do erro de teclar ENTER ou espaços.
+* Parte de email usado e senha foram removidos por questão de segurança, bem como senha alterada no site apppassoword dos sergiços google;
 * Segue também neste diretório o código "keylogger_email_V2" com adaptação feita no capítulo/ parte 4, mantendo trecho original propoto por professora e parte adaptada/ corrigida.
   
 
